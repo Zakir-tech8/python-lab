@@ -8,10 +8,10 @@ def is_even(n):
 
 def celsius_to_fahrenheit(c):
     """Converts Celsius to Fahrenheit."""
-    return (c * 9/5) + 32python 
+    return (c * 9/5) + 32 python 
 
 
-python
+
 
 def greet(name):
     return f"Hello, {name}!"
